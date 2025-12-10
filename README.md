@@ -1,4 +1,3 @@
-[deepseek_html_20251209_2035d6.html](https://github.com/user-attachments/files/24067717/deepseek_html_20251209_2035d6.html)
 <!DOCTYPE html>
 <html lang="ckb" dir="rtl">
 <head>
